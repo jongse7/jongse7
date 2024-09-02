@@ -22,8 +22,9 @@
 
 <br>
 
-<!--자주 쓰는 언어-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact)
+<span> <!--자주 쓰는 언어-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact) </span>
+
 
 
 <!--통계-->
