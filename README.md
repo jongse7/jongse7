@@ -25,7 +25,6 @@
 <!--자주 쓰는 언어-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact)
 
-<br>
 
 <!--통계-->
 ![Jongse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&theme=radical)
