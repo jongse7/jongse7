@@ -38,6 +38,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&bg_color=0d1117&text_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" alt="jongse's GitHub stats" />
 </div>
-<div align="center>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF" alt="Top Langs" />
 </div>
