@@ -35,5 +35,6 @@
 
 <br>
 
-![jongse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact)
+![jongse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&bg_color=0d1117&text_color=58A6FF&icon_color=58A6FF&title_color=58A6FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact&bg_color=0d1117&text_color=58A6FF&title_color=58A6FF)
+
