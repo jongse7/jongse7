@@ -1,4 +1,6 @@
-<h1 align="center">🚀 Railgun's GitHub ⚡️</h1>
+<h1 align="center">
+  <img src="https://cooltext.com/images/3712291.png" alt="Railgun's GitHub" />
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Explore+my+projects+and+repos!;Let's+build+something+awesome+together!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
