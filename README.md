@@ -35,3 +35,7 @@
   <img src="https://img.shields.io/badge/hive-FB9E14.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/riverpod-40AEF4.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
 </div>
+
+<br>
+
+[![jongse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongse7)](https://github.com/jongse7/github-readme-stats)
