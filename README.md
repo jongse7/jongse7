@@ -38,4 +38,4 @@
 
 <br>
 
-[![jongse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongse7)](https://github.com/jongse7/github-readme-stats)
+![jongse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&theme=radical)
