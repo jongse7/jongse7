@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/zustand-1065E6.svg?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
+</div>
+
 <br>
 
 <div align="center">
