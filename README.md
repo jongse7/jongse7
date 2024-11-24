@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/react--router--dom-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/zustand-1065E6.svg?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">
@@ -40,10 +41,6 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/zustand-1065E6.svg?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
 </div>
 
 <br>
