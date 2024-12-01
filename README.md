@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/react--router--dom-CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/zustand-1065E6.svg?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/zustand-1065E6.svg?style=for-the-badge" alt="zustand badge" />
 </div>
 
 <div align="center">
