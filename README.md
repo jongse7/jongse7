@@ -49,7 +49,7 @@
 | 프로젝트명 | 설명 | 기간 | 역할 |
 |------------|------|------|------|
 | [숭실대 총학생회 홈페이지 리뉴얼](https://stu.ssu.ac.kr) ([GitHub](https://github.com/jongse7/homepage-frontend)) | 숭실대학교 총학생회 홈페이지 리뉴얼 프로젝트. React + TypeScript 기반으로 제작, 이미지 최적화 및 운영 자동화 구현 | 2024.07 ~ 운영중 | 프론트엔드 개발, 성능 최적화, CI/CD 구성 |
-| [Riv](https://www.riv-discord.online) ([GitHub](https://github.com/OpenRiv/riv-frontend)) | Discord 기반 회의 기록 및 음성 분석 서비스. 사용자 인터랙션 중심 UI 및 OAuth 인증 처리 | 2025.04 ~ 진행 중 | 프론트엔드 개발, OAuth 연동, 상태관리 |
+| [Riv](https://www.riv-discord.online) ([GitHub](https://github.com/OpenRiv/riv-frontend)) | Discord 기반 회의 기록 및 음성 분석 서비스. 사용자 인터랙션 중심 UI 및 OAuth 인증 처리 | 2024.09 ~ 2024.12 | 프론트엔드 개발, OAuth 연동, 상태관리 |
 
 ## 💯 Baekjoon Tier
 
