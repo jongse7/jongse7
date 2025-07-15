@@ -4,8 +4,6 @@
 사용자 중심의 서비스 개발에 관심이 많고, UI/UX 향상과 실용적인 기능 구현에 집중하고 있습니다.  
 현재 숭실대학교 글로벌미디어학부에 재학 중이며, 다양한 프로젝트와 커뮤니티 활동을 통해 성장하고 있습니다.
 
----
-
 ## 📌 Profile
 
 - 💼 Name: 문세종  
@@ -13,7 +11,6 @@
 - 📍 Location: Seoul, Korea  
 - 💻 Interested in: Web Frontend, Cross-Platform App, DevOps, UI/UX
 
----
 
 ## 🚀 Skills
 
@@ -44,14 +41,10 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
----
-
 ## 🎓 Education
 
 - **숭실대학교 글로벌미디어학부** (2020.03 ~ 재학 중)  
 - **UMC 7기 WEB 파트 수료** (2024.09 ~ 2025.02)
-
----
 
 ## 🛠 Projects
 
@@ -59,8 +52,6 @@
 |------------|------|------|------|
 | [숭실대 총학생회 홈페이지 리뉴얼](https://stu.ssu.ac.kr) ([GitHub](https://github.com/jongse7/homepage-frontend)) | 숭실대학교 총학생회 홈페이지 리뉴얼 프로젝트. React + TypeScript 기반으로 제작, 이미지 최적화 및 운영 자동화 구현 | 2024.01 ~ 2024.03 | 프론트엔드 개발, 성능 최적화, CI/CD 구성 |
 | [Riv](https://www.riv-discord.online) ([GitHub](https://github.com/OpenRiv/riv-frontend)) | Discord 기반 회의 기록 및 음성 분석 서비스. 사용자 인터랙션 중심 UI 및 OAuth 인증 처리 | 2025.04 ~ 진행 중 | 프론트엔드 개발, OAuth 연동, 상태관리 |
-
----
 
 ## 💯 Baekjoon Tier
 
