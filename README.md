@@ -7,9 +7,8 @@ Flutter로 개발을 시작해 React를 1년째 다루고 있는 프론트엔드
 
 - 💼 Name: 문세종  
 - 🎓 Major: 숭실대학교 글로벌미디어학부  
-- 📍 Location: Seoul, Korea  
-- 💻 Interested in: Web Frontend, Cross-Platform App, DevOps, UI/UX
-
+- 📍 Location: Seoul, Korea
+- 📧 Email: mmssjj72@naver.com
 
 ## 🚀 Skills
 
