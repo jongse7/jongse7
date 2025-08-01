@@ -18,6 +18,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+<br/>
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat)
