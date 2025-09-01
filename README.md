@@ -1,16 +1,16 @@
-## 👋 About Me
+## About Me
 
 Flutter로 개발을 시작해 React를 1년째 다루고 있는 프론트엔드 개발자 문세종입니다.<br/>
 웹과 크로스플랫폼 환경 모두에서 사용자 경험 중심의 개발을 추구하고 있습니다.
 
-## 👤 Profile
+## Profile
 
 - 💼 Name: 문세종  
 - 🎓 Major: 숭실대학교 글로벌미디어학부  
 - 📍 Location: Seoul, Korea
 - 📧 Email: mmssjj72@naver.com
 
-## 🚀 Skills
+## Skills
 
 ### Web Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -40,7 +40,7 @@ Flutter로 개발을 시작해 React를 1년째 다루고 있는 프론트엔드
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
-## 🎓 Education
+## Education
 
 - **성보고등학교** (2017.03 ~ 2020.02)
 - **숭실대학교 글로벌미디어학부** (2020.03 ~ 재학 중)  
@@ -52,7 +52,7 @@ Flutter로 개발을 시작해 React를 1년째 다루고 있는 프론트엔드
 - **GST 웹사이트 프론트엔드 담당** (2025.07 ~ 2025.08)
 - **사페레아우데 프론트엔드 인턴** (2025.08 ~ 2025.10)
 
-## 🛠 Projects
+## Projects
 
 | 프로젝트명 | 설명 | 기간 | 역할 |
 |------------|------|------|------|
