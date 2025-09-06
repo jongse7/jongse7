@@ -62,3 +62,10 @@ Flutter로 개발을 시작해 React를 1년째 다루고 있는 프론트엔드
 ## 💯 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72)
+
+## Farm
+<img
+  src="https://render.gitanimals.org/farms/Jongse7"
+  width="600"
+  height="300"
+/>
