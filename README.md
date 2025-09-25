@@ -64,3 +64,7 @@ Flutter로 개발을 시작해 React를 1년째 다루고 있는 프론트엔드
 ## 💯 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72)
+
+## ECT
+<img src="https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongse7&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="170"/>
+
