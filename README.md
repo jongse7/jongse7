@@ -20,10 +20,8 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 <br/>
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
-![Ky](https://img.shields.io/badge/Axios-5A29E4?style=flat)
+![Ky](https://img.shields.io/badge/Ky-5A29E4?style=flat)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### Cross Platform  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
