@@ -11,7 +11,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 - Email: mmssjj72@naver.com
 
 ## Career
-- **[2024.04 ~ 2024.12] - 숭실대학교 총학생회 디지털혁신국원**
 - **[2024.04 ~ 2025.07] - 숭실대학교 IT지원위원회 프론트엔드**
 - **[2025.07 ~ 2025.08] - GST 웹사이트 프론트엔드 담당**
 - **[2025.08 ~ 현재] - 사페레아우데 프론트엔드 인턴**
@@ -38,15 +37,9 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 ![Retrofit](https://img.shields.io/badge/Retrofit-56CCF2?style=flat)
 ![JsonSerializable](https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat)
 
-### Common Tools & Environment  
-![Git](https://img.shields.io/badge/Git%2FGitHub-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
 ## Education 
 - **[2017.03 ~ 2020.02] - 성보고등학교**
-- **[2020.03 ~ 재학 중] - 숭실대학교 글로벌미디어학부**
+- **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
 - **[2024.09 ~ 2025.02] - UMC 7기 WEB 파트 수료**
 - **[2025.03 ~ 2025.11] - 구름톤 유니브 4기 WEB 파트 수료**
 
