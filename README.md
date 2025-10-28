@@ -22,7 +22,7 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)
 <br/>
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![React Router Dom](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
 ![Ky](https://img.shields.io/badge/Ky-5A29E4?style=flat)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat)
