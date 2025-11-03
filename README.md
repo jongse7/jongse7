@@ -37,7 +37,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 ![JsonSerializable](https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat)
 
 ## Education 
-- **[2017.03 ~ 2020.02] - 성보고등학교**
 - **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
 - **[2024.09 ~ 2025.02] - UMC 7기 WEB 파트 수료**
 - **[2025.03 ~ 2025.11] - 구름톤 유니브 4기 WEB 파트 수료**
