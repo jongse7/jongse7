@@ -10,9 +10,9 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 - Email: mmssjj72@naver.com
 
 ## Career
-- **[2024.04 ~ 2025.07] - 숭실대학교 IT지원위원회 프론트엔드**
+- **[2024.04 ~ 2025.07] - [숭실대학교 IT지원위원회](https://github.com/ssu-student-union) 프론트엔드**
 - **[2025.07 ~ 2025.08] - [GST 웹사이트](https://www.ggsnt.com/) 외주 프론트엔드 담당**
-- **[2025.08 ~ 2025.11] - 사페레아우데 프론트엔드 인턴**
+- **[2025.08 ~ 2025.11] - [사페레아우데](https://docshunt.ai/sample) 프론트엔드 인턴**
 
 ## Skills
 
