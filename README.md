@@ -25,13 +25,17 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-        <br/>
-        <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
-        <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" alt="TanStack Query">
-        <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
+        <div style="white-space: nowrap;">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+            <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+        </div>
+        <div style="margin-top: 5px;">
+            <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat" alt="shadcn/ui">
+            <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
+            <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" alt="TanStack Query">
+            <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
+        </div>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
@@ -39,9 +43,11 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
         <img src="https://img.shields.io/badge/Hive-FADA5E?style=flat" alt="Hive">
         <img src="https://img.shields.io/badge/Dio-000000?style=flat" alt="Dio">
         <br/>
-        <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=flat" alt="Riverpod">
-        <img src="https://img.shields.io/badge/Retrofit-56CCF2?style=flat" alt="Retrofit">
-        <img src="https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat" alt="JsonSerializable">
+        <div style="margin-top: 5px;">
+            <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=flat" alt="Riverpod">
+            <img src="https://img.shields.io/badge/Retrofit-56CCF2?style=flat" alt="Retrofit">
+            <img src="https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat" alt="JsonSerializable">
+        </div>
       </td>
     </tr>
   </tbody>
