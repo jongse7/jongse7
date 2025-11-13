@@ -31,7 +31,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
             <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
         </div>
         <div style="margin-top: 5px;">
-            <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat" alt="shadcn/ui">
             <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
             <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" alt="TanStack Query">
             <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
