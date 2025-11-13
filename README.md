@@ -15,7 +15,7 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 
 ## Skills
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
   <div style="flex: 1; text-align: center;">
     <h3 style="margin-bottom: 10px;">Web Frontend</h3>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
