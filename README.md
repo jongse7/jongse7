@@ -6,7 +6,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 
 - Name: 문세종  
 - Major: 숭실대학교 글로벌미디어학부 20학번
-- Location: Seoul, Korea
 - Email: mmssjj72@naver.com
 
 ## Career
@@ -16,25 +15,38 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 
 ## Skills
 
-### Web Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat)
-<br/>
-![React Router Dom](https://img.shields.io/badge/React%20Router%20Dom-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
-![Ky](https://img.shields.io/badge/Ky-5A29E4?style=flat)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <h3 style="margin-bottom: 10px;">Web Frontend</h3>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat" alt="shadcn/ui">
+    <br/>
+    <div style="margin-top: 5px;">
+        <img src="https://img.shields.io/badge/React%20Router%20Dom-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router Dom">
+        <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
+        <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
+        <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" alt="TanStack Query">
+    </div>
+  </div>
 
-### Cross Platform  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FADA5E?style=flat)
-![Dio](https://img.shields.io/badge/Dio-000000?style=flat)
-![Riverpod](https://img.shields.io/badge/Riverpod-40C4FF?style=flat)
-![Retrofit](https://img.shields.io/badge/Retrofit-56CCF2?style=flat)
-![JsonSerializable](https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat)
+  <div style="width: 1px; background-color: #E5E7EB; margin: 10px 0; align-self: stretch;"></div>
+
+  <div style="flex: 1; text-align: center;">
+    <h3 style="margin-bottom: 10px;">Cross Platform</h3>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/Hive-FADA5E?style=flat" alt="Hive">
+    <img src="https://img.shields.io/badge/Dio-000000?style=flat" alt="Dio">
+    <br/>
+    <div style="margin-top: 5px;">
+        <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=flat" alt="Riverpod">
+        <img src="https://img.shields.io/badge/Retrofit-56CCF2?style=flat" alt="Retrofit">
+        <img src="https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat" alt="JsonSerializable">
+    </div>
+  </div>
+</div>
 
 ## Education 
 - **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
