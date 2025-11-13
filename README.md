@@ -28,8 +28,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat" alt="shadcn/ui">
-        <br/>
         <br/>
         <img src="https://img.shields.io/badge/React%20Router%20Dom-CA4245?style=flat&logo=reactrouter&logoColor=white" alt="React Router Dom">
         <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
@@ -41,7 +39,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
         <img src="https://img.shields.io/badge/Hive-FADA5E?style=flat" alt="Hive">
         <img src="https://img.shields.io/badge/Dio-000000?style=flat" alt="Dio">
-        <br/>
         <br/>
         <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=flat" alt="Riverpod">
         <img src="https://img.shields.io/badge/Retrofit-56CCF2?style=flat" alt="Retrofit">
