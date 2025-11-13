@@ -30,8 +30,8 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
         <br/>
         <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
-        <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
         <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" alt="TanStack Query">
+        <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
@@ -49,8 +49,6 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 
 ## Education 
 - **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
-- **[2024.09 ~ 2025.02] - UMC 7기 WEB 파트 수료**
-- **[2025.03 ~ 2025.11] - 구름톤 유니브 4기 WEB 파트 수료**
 
 ## Projects
 
@@ -59,6 +57,10 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 | [숭실대 총학생회 홈페이지 리뉴얼](https://stu.ssu.ac.kr) ([GitHub](https://github.com/jongse7/homepage-frontend)) | 숭실대학교 총학생회 홈페이지 리뉴얼 프로젝트. React + TypeScript 기반으로 제작, 이미지 최적화 및 운영 자동화 구현 | 2024.07 ~ 운영중 | 프론트엔드 개발, 성능 최적화, CI/CD 구성 |
 | [Riv](https://www.riv-discord.online) ([GitHub](https://github.com/OpenRiv/riv-frontend)) | Discord 기반 회의 기록 및 음성 분석 서비스. 사용자 인터랙션 중심 UI 및 OAuth 인증 처리 | 2024.09 ~ 2024.12 | 프론트엔드 개발, OAuth 연동, 상태관리 |
 | [Docshunt Ai](https://docshunt.ai/) | 사업계획서 전문 AI 서비스 | 2025.8 ~ 운영중 | v 2.0.0 ~ ^3.0.0 기능 개발 및 유지보수 (tanstack/query, blocknote, react-markdown, i18n ...) |
+
+## Activity
+- **[2024.09 ~ 2025.02] - UMC 7기 WEB 파트 수료**
+- **[2025.03 ~ 2025.11] - 구름톤 유니브 4기 WEB 파트 수료**
 
 ## Problem Solving
 
