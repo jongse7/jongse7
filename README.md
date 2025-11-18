@@ -25,28 +25,21 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
   <tbody>
     <tr>
       <td align="center">
-        <div style="white-space: nowrap;">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React">
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-            <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-        </div>
-        <div style="margin-top: 5px;">
-            <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand">
-            <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat" alt="TanStack Query">
-            <img src="https://img.shields.io/badge/Ky-5A29E4?style=flat" alt="Ky">
-        </div>
+        [React](https://react.dev/)
+        [TypeScript](https://www.typescriptlang.org/)
+        [TailwindCSS](https://tailwindcss.com/)
+        [Zustand](https://www.npmjs.com/package/zustand)
+        [TanStack Query](https://tanstack.com/query/latest)
+        [Ky](https://www.npmjs.com/package/ky)
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
-        <img src="https://img.shields.io/badge/Hive-FADA5E?style=flat" alt="Hive">
-        <img src="https://img.shields.io/badge/Dio-000000?style=flat" alt="Dio">
-        <br/>
-        <div style="margin-top: 5px;">
-            <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=flat" alt="Riverpod">
-            <img src="https://img.shields.io/badge/Retrofit-56CCF2?style=flat" alt="Retrofit">
-            <img src="https://img.shields.io/badge/JsonSerializable-00BFA6?style=flat" alt="JsonSerializable">
-        </div>
+        [Flutter](https://flutter.dev/)
+        [Dart](https://dart.dev/)
+        [Hive](https://pub.dev/packages/hive)
+        [Dio](https://pub.dev/packages/dio)
+        [Riverpod](https://riverpod.dev/)
+        [Retrofit](https://pub.dev/packages/retrofit)
+        [JsonSerializable](https://pub.dev/packages/json_serializable)
       </td>
     </tr>
   </tbody>
