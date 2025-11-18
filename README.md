@@ -17,7 +17,7 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 
 | Web Frontend | Cross Platform |
 | :---: | :---: |
-| [React](https://react.dev/)<br>[TypeScript](https://www.typescriptlang.org/)<br>[TailwindCSS](https://tailwindcss.com/)<br>[Zustand](https://www.npmjs.com/package/zustand)<br>[TanStack Query](https://tanstack.com/query/latest)<br>[Ky](https://www.npmjs.com/package/ky) | [Flutter](https://flutter.dev/)<br>[Dart](https://dart.dev/)<br>[Hive](https://pub.dev/packages/hive)<br>[Dio](https://pub.dev/packages/dio)<br>[Riverpod](https://riverpod.dev/)<br>[Retrofit](https://pub.dev/packages/retrofit)<br>[JsonSerializable](https://pub.dev/packages/json_serializable) |
+| [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/)<br>[Zustand](https://www.npmjs.com/package/zustand), [TanStack Query](https://tanstack.com/query/latest), [Ky](https://www.npmjs.com/package/ky) | [Flutter](https://flutter.dev/), [Dart](https://dart.dev/), [Hive](https://pub.dev/packages/hive), [Dio](https://pub.dev/packages/dio)<br>[Riverpod](https://riverpod.dev/), [Retrofit](https://pub.dev/packages/retrofit), [JsonSerializable](https://pub.dev/packages/json_serializable) |
 
 ## Education 
 - **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
