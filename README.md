@@ -12,38 +12,12 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 - **[2024.04 ~ 2025.07] - [숭실대학교 IT지원위원회](https://github.com/ssu-student-union) 프론트엔드**
 - **[2025.07 ~ 2025.08] - [GST 웹사이트](https://www.ggsnt.com/) 외주 프론트엔드 담당**
 - **[2025.08 ~ 2025.11] - [사페레아우데](https://docshunt.ai/sample) 프론트엔드 인턴**
-
+- 
 ## Skills
 
-<table>
-  <thead>
-    <tr>
-      <th align="center" width="50%">Web Frontend</th>
-      <th align="center" width="50%">Cross Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        [React](https://react.dev/)
-        [TypeScript](https://www.typescriptlang.org/)
-        [TailwindCSS](https://tailwindcss.com/)
-        [Zustand](https://www.npmjs.com/package/zustand)
-        [TanStack Query](https://tanstack.com/query/latest)
-        [Ky](https://www.npmjs.com/package/ky)
-      </td>
-      <td align="center">
-        [Flutter](https://flutter.dev/)
-        [Dart](https://dart.dev/)
-        [Hive](https://pub.dev/packages/hive)
-        [Dio](https://pub.dev/packages/dio)
-        [Riverpod](https://riverpod.dev/)
-        [Retrofit](https://pub.dev/packages/retrofit)
-        [JsonSerializable](https://pub.dev/packages/json_serializable)
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Web Frontend | Cross Platform |
+| :---: | :---: |
+| [React](https://react.dev/)<br>[TypeScript](https://www.typescriptlang.org/)<br>[TailwindCSS](https://tailwindcss.com/)<br>[Zustand](https://www.npmjs.com/package/zustand)<br>[TanStack Query](https://tanstack.com/query/latest)<br>[Ky](https://www.npmjs.com/package/ky) | [Flutter](https://flutter.dev/)<br>[Dart](https://dart.dev/)<br>[Hive](https://pub.dev/packages/hive)<br>[Dio](https://pub.dev/packages/dio)<br>[Riverpod](https://riverpod.dev/)<br>[Retrofit](https://pub.dev/packages/retrofit)<br>[JsonSerializable](https://pub.dev/packages/json_serializable) |
 
 ## Education 
 - **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
