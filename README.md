@@ -35,8 +35,5 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 - **[2025.03 ~ 2025.11] - 구름톤 유니브 4기 WEB 파트 수료**
 
 ## Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72)
-
-## ECT
-<img src="https://github-readme-stats.vercel.app/api?username=jongse7&show_icons=true&theme=tokyonight" height="170"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72
 
