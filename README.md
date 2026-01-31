@@ -28,7 +28,7 @@ Flutter로 개발을 시작해 React를 다루고 있는 프론트엔드 개발�
 | [Docshunt Ai](https://docshunt.ai/) | 사업계획서 전문 AI 서비스 | 2025.8 ~ 운영중 | v 2.0.0 ~ ^3.0.0 기능 개발 및 유지보수 (tanstack/query, blocknote, react-markdown, i18n ...) |
 
 ## Education 
-- **[2020.03 ~ 8학기 재학] - 숭실대학교 글로벌미디어학부**
+- **[2020.03 ~ 2026.02] - 숭실대학교 글로벌미디어학부**
 
 ## Activity
 - **[2024.09 ~ 2025.02] - UMC 7기 WEB 파트 수료**
