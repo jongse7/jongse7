@@ -64,4 +64,4 @@ React 및 Flutter 생태계를 주력으로 다룹니다.
 - **UMC 7기 WEB 파트 챌린저** (2024.09 ~ 2025.02)
 
 <br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmsssjj72)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72)
