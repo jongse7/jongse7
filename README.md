@@ -2,9 +2,7 @@
 
 **"Flutter로 시작해 React 생태계로 확장한 프론트엔드 개발자, 문세종입니다."**
 
-사용자 경험을 최우선으로 생각하며, 비즈니스 로직을 효율적인 UI/UX로 풀어내는 것을 즐깁니다.  
-스타트업 인턴, 교내 IT 조직 리드, 글로벌 전시회 스태프 등 다양한 환경에서 주도적으로 문제를 해결하며 성장해왔습니다.
-
+사용자 경험을 최우선으로 생각하며, 비즈니스 로직을 효율적인 UI/UX로 풀어내는 것을 즐깁니다.
 <br>
 
 ## 👤 Profile
@@ -12,8 +10,7 @@
 | Contact & Channel | Detail |
 | :--- | :--- |
 | **Email** | mmssjj72@naver.com |
-| **Education** | **숭실대학교 글로벌미디어학부** (2020.03 ~ 2026.02 졸업 예정) <br> - 학점: **3.92** / 4.5 |
-| **Channel** | [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72) |
+| **Education** | **숭실대학교 글로벌미디어학부** (2020.03 ~ 2026.02 졸업 예정)|
 
 <br>
 
