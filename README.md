@@ -26,7 +26,7 @@ React 및 Flutter 생태계를 주력으로 다룹니다.
 
 **Frontend Web Developer** | *2024.04 ~ 2024.09*
 
-### **Freelance (GST)**
+### **Freelance**
 [GST 웹사이트](https://www.ggsnt.com/) 외주 프론트엔드 개발 담당 | *2025.07 ~ 2025.08*
 
 <br>
