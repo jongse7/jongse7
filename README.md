@@ -46,10 +46,12 @@ React 및 Flutter 생태계를 주력으로 다룹니다.
 - **UMC 7기 WEB 파트 수료 - [2024.09 ~ 2025.02]**
 - **구름톤 유니브 4기 WEB 파트 수료 - [2025.03 ~ 2025.11]**
 
-## 🏆 Awards
+## Awards
 - **2025 슈퍼스타 창업경진대회 최우수상 - [2025.12]**
 - **구름톤 유니브 연합 프로젝트 'NEXUS' 1등 - [2025.08]**
 
 ## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmssjj72)](https://solved.ac/mmssjj72)
 
+## Github Stats
+![](https://github-readme-stats-sandy-psi-73.vercel.app/api?username=jongse7&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
