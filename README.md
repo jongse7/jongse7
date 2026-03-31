@@ -2,9 +2,6 @@
 
 **Software Engineer**
 
-웹 & 크로스플랫폼 개발자.  
-React 및 Flutter 생태계를 주력으로 다룹니다.
-
 ## Profile
 
 - Name: 문세종(Sejong Moon)
@@ -28,7 +25,6 @@ React 및 Flutter 생태계를 주력으로 다룹니다.
 | Category | Stacks |
 | :--- | :--- |
 | **Web Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white) <br> ![Zustand](https://img.shields.io/badge/Zustand-orange?style=flat-square) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white) |
-| **Cross Platform** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white) <br> ![Riverpod](https://img.shields.io/badge/Riverpod-black?style=flat-square) ![Dio](https://img.shields.io/badge/Dio-black?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) |
 
 ## Projects
