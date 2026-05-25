@@ -17,7 +17,7 @@ React · TypeScript · Tailwind CSS · Emotion · TanStack Query · Zod · Axios
 - [총학생회 홈페이지](https://stu.ssu.ac.kr) | PHP → React/TS 리뉴얼 | `2024.07 ~ 2025.07`
 
 ### Certificates
-- SW테스트전문가(CSTS) 일반등급 | `2025.05`
+- SW테스트전문가(CSTS) 일반등급 | `2026.05`
 
 ### Awards
 - 숭실대학교 창업경진대회 최우수상 | 2025.12
