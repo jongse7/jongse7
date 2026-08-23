@@ -5,6 +5,7 @@ React · TypeScript · Tailwind CSS · Emotion · TanStack Query · Zod · Axios
 
 ### Projects
 - [Docshunt AI](https://docshunt.ai) | AI 기반 사업계획서 자동완성 B2C SaaS | `2025.08 ~ 2026.02`
+- 아끼모 | 맞춤형 소비 습관 서비스 | `2026.05 ~ 2026.08`
 - [@bichon/ds](https://www.npmjs.com/package/@bichon/ds) | 사내 디자인 시스템 독립 npm 패키지 | `2026.01 ~ 2026.02`
 - [총학생회 홈페이지](https://stu.ssu.ac.kr) | PHP → React/TS 리뉴얼 | `2024.07 ~ 2025.07`
 
