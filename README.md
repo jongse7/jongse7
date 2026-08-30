@@ -8,6 +8,7 @@ React · TypeScript · Tailwind CSS · Emotion · TanStack Query · Zod · Axios
 - 아끼모 | 맞춤형 소비 습관 서비스 | `2026.05 ~ 2026.08`
 - [@bichon/ds](https://www.npmjs.com/package/@bichon/ds) | 사내 디자인 시스템 독립 npm 패키지 | `2026.01 ~ 2026.02`
 - [총학생회 홈페이지](https://stu.ssu.ac.kr) | PHP → React/TS 리뉴얼 | `2024.07 ~ 2025.07`
+- [금강 st 홈페이지](https://www.ggsnt.com/) | `2025.07 ~ 2025.08`
 
 ### Certificates
 - 정보처리기사 | `2026.06`
